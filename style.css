@@ -610,7 +610,7 @@
  .horizontal-scroll {
      position: absolute;
      overflow: hidden;
-     margin: -11rem 0;
+     margin: -13rem 0;
      z-index: -1000;
 
  }
