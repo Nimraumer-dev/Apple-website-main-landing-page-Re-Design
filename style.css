@@ -540,7 +540,7 @@
  .navigation {
 
      position: absolute;
-     bottom: 240px;
+     bottom: 220px;
      left: 50%;
      transform: translateX(-50%);
      display: flex;
